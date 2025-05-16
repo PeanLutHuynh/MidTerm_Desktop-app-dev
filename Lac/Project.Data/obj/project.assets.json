@@ -3241,11 +3241,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MidTerm\\Lac\\Project.Data\\Project.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\MidTerm_Desktop-app-dev\\Lac\\Project.Data\\Project.Data.csproj",
       "projectName": "Project.Data",
-      "projectPath": "C:\\MidTerm\\Lac\\Project.Data\\Project.Data.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\MidTerm_Desktop-app-dev\\Lac\\Project.Data\\Project.Data.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\MidTerm\\Lac\\Project.Data\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\MidTerm_Desktop-app-dev\\Lac\\Project.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3266,8 +3266,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\MidTerm\\Lac\\Project.Models\\Project.Models.csproj": {
-              "projectPath": "C:\\MidTerm\\Lac\\Project.Models\\Project.Models.csproj"
+            "C:\\Users\\Administrator\\Source\\Repos\\MidTerm_Desktop-app-dev\\Lac\\Project.Models\\Project.Models.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\MidTerm_Desktop-app-dev\\Lac\\Project.Models\\Project.Models.csproj"
             }
           }
         }
