@@ -10,3 +10,15 @@ C:\MidTerm\Lac\Project.Models\obj\Debug\net8.0\Project.Models.dll
 C:\MidTerm\Lac\Project.Models\obj\Debug\net8.0\refint\Project.Models.dll
 C:\MidTerm\Lac\Project.Models\obj\Debug\net8.0\Project.Models.pdb
 C:\MidTerm\Lac\Project.Models\obj\Debug\net8.0\ref\Project.Models.dll
+C:\Users\Administrator\Source\Repos\MidTerm_Desktop-app-dev\Lac\Project.Models\bin\Debug\net8.0\Project.Models.deps.json
+C:\Users\Administrator\Source\Repos\MidTerm_Desktop-app-dev\Lac\Project.Models\bin\Debug\net8.0\Project.Models.dll
+C:\Users\Administrator\Source\Repos\MidTerm_Desktop-app-dev\Lac\Project.Models\bin\Debug\net8.0\Project.Models.pdb
+C:\Users\Administrator\Source\Repos\MidTerm_Desktop-app-dev\Lac\Project.Models\obj\Debug\net8.0\Project.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Source\Repos\MidTerm_Desktop-app-dev\Lac\Project.Models\obj\Debug\net8.0\Project.Models.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\MidTerm_Desktop-app-dev\Lac\Project.Models\obj\Debug\net8.0\Project.Models.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\MidTerm_Desktop-app-dev\Lac\Project.Models\obj\Debug\net8.0\Project.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\MidTerm_Desktop-app-dev\Lac\Project.Models\obj\Debug\net8.0\Project.Models.sourcelink.json
+C:\Users\Administrator\Source\Repos\MidTerm_Desktop-app-dev\Lac\Project.Models\obj\Debug\net8.0\Project.Models.dll
+C:\Users\Administrator\Source\Repos\MidTerm_Desktop-app-dev\Lac\Project.Models\obj\Debug\net8.0\refint\Project.Models.dll
+C:\Users\Administrator\Source\Repos\MidTerm_Desktop-app-dev\Lac\Project.Models\obj\Debug\net8.0\Project.Models.pdb
+C:\Users\Administrator\Source\Repos\MidTerm_Desktop-app-dev\Lac\Project.Models\obj\Debug\net8.0\ref\Project.Models.dll
