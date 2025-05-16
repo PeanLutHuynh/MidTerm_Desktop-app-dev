@@ -1,0 +1,12 @@
+C:\MidTerm\Lac\Project.Models\bin\Debug\net8.0\Project.Models.deps.json
+C:\MidTerm\Lac\Project.Models\bin\Debug\net8.0\Project.Models.dll
+C:\MidTerm\Lac\Project.Models\bin\Debug\net8.0\Project.Models.pdb
+C:\MidTerm\Lac\Project.Models\obj\Debug\net8.0\Project.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\MidTerm\Lac\Project.Models\obj\Debug\net8.0\Project.Models.AssemblyInfoInputs.cache
+C:\MidTerm\Lac\Project.Models\obj\Debug\net8.0\Project.Models.AssemblyInfo.cs
+C:\MidTerm\Lac\Project.Models\obj\Debug\net8.0\Project.Models.csproj.CoreCompileInputs.cache
+C:\MidTerm\Lac\Project.Models\obj\Debug\net8.0\Project.Models.sourcelink.json
+C:\MidTerm\Lac\Project.Models\obj\Debug\net8.0\Project.Models.dll
+C:\MidTerm\Lac\Project.Models\obj\Debug\net8.0\refint\Project.Models.dll
+C:\MidTerm\Lac\Project.Models\obj\Debug\net8.0\Project.Models.pdb
+C:\MidTerm\Lac\Project.Models\obj\Debug\net8.0\ref\Project.Models.dll

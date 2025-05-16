@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MidTerm\\Lac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3E9DD5-FDE0-4A2C-B7CF-5DF08AC016B3}|Project.Models\\Project.Models.csproj|c:\\midterm\\lac\\project.models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3E9DD5-FDE0-4A2C-B7CF-5DF08AC016B3}|Project.Models\\Project.Models.csproj|solutionrelative:project.models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3E9DD5-FDE0-4A2C-B7CF-5DF08AC016B3}|Project.Models\\Project.Models.csproj|c:\\midterm\\lac\\project.models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3E9DD5-FDE0-4A2C-B7CF-5DF08AC016B3}|Project.Models\\Project.Models.csproj|solutionrelative:project.models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE38417-CFDF-4D3D-8356-B3274F1B9619}|Project.Data\\Project.Data.csproj|c:\\midterm\\lac\\project.data\\bankingappdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE38417-CFDF-4D3D-8356-B3274F1B9619}|Project.Data\\Project.Data.csproj|solutionrelative:project.data\\bankingappdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA706122-35B5-466F-A5C5-B7F6AE880397}|Project.Client\\Project.Client.csproj|c:\\midterm\\lac\\project.client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA706122-35B5-466F-A5C5-B7F6AE880397}|Project.Client\\Project.Client.csproj|solutionrelative:project.client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA706122-35B5-466F-A5C5-B7F6AE880397}|Project.Client\\Project.Client.csproj|c:\\midterm\\lac\\project.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA706122-35B5-466F-A5C5-B7F6AE880397}|Project.Client\\Project.Client.csproj|solutionrelative:project.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MidTerm\\Lac\\Project.Data\\Migrations\\20250516072931_Bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project.Data\\Migrations\\20250516072931_Bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250516072931_Bank.cs",
+              "DocumentMoniker": "C:\\MidTerm\\Lac\\Project.Data\\Migrations\\20250516072931_Bank.cs",
+              "RelativeDocumentMoniker": "Project.Data\\Migrations\\20250516072931_Bank.cs",
+              "ToolTip": "C:\\MidTerm\\Lac\\Project.Data\\Migrations\\20250516072931_Bank.cs",
+              "RelativeToolTip": "Project.Data\\Migrations\\20250516072931_Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:29:31.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MidTerm\\Lac\\Project.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Project.Client\\Program.cs",
+              "ToolTip": "C:\\MidTerm\\Lac\\Project.Client\\Program.cs",
+              "RelativeToolTip": "Project.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:28:46.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\MidTerm\\Lac\\Project.Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Project.Client\\Form1.cs",
+              "ToolTip": "C:\\MidTerm\\Lac\\Project.Client\\Form1.cs [Design]",
+              "RelativeToolTip": "Project.Client\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:21:59.315Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankingAppData.cs",
+              "DocumentMoniker": "C:\\MidTerm\\Lac\\Project.Data\\BankingAppData.cs",
+              "RelativeDocumentMoniker": "Project.Data\\BankingAppData.cs",
+              "ToolTip": "C:\\MidTerm\\Lac\\Project.Data\\BankingAppData.cs",
+              "RelativeToolTip": "Project.Data\\BankingAppData.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAawHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:47:33.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\MidTerm\\Lac\\Project.Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Project.Models\\Transaction.cs",
+              "ToolTip": "C:\\MidTerm\\Lac\\Project.Models\\Transaction.cs",
+              "RelativeToolTip": "Project.Models\\Transaction.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:25:00.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\MidTerm\\Lac\\Project.Models\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Project.Models\\BankAccount.cs",
+              "ToolTip": "C:\\MidTerm\\Lac\\Project.Models\\BankAccount.cs",
+              "RelativeToolTip": "Project.Models\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:24:18.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
